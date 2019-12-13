@@ -3,7 +3,7 @@
 
 
 void main(){
-	setlocale(LC_ALL,"RUSSIAN");
+	setlocale(LC_ALL,"RUSSIAN"); //
 	int k, i, b, c, x, n,z;
 	printf("Введите количество элементов k=");
 	scanf("%d",&k);
